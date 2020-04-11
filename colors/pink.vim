@@ -104,7 +104,7 @@ hi SpellBad    ctermfg=none ctermbg=none cterm=undercurl guisp=#ff5f87
 hi SpellCap    ctermfg=none ctermbg=none cterm=undercurl guisp=#ff5f87
 hi SpellLocal  ctermfg=none ctermbg=none cterm=undercurl guisp=#ff5f87
 
-"" Plugins
+"" Plugin
 " NerdTree
 hi def link NERDTreeOpenable  SpecialChar
 hi def link NERDTreeCloseable SpecialChar
@@ -115,8 +115,8 @@ hi def link CocWarningFloat WildMenu
 hi def link CocInfoFloat    WildMenu
 hi def link CocHintFloat    WildMenu
 
-hi def link CocErrorHighlight   Erorr
-hi def link CocWarningHighlight Erorr
-hi def link CocInfoHighlight    Erorr
-hi def link CocHintHighlight    Erorr
+hi def link CocErrorHighlight   Error
+hi def link CocWarningHighlight Error
+hi def link CocInfoHighlight    Error
+hi def link CocHintHighlight    Error
  
